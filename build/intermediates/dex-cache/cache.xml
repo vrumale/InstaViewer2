@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\vrumale\AndroidProject\InstaViewer\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\vrumale\AndroidProject\InstaViewer\app\build\intermediates\pre-dexed\debug\classes-40971b0aa8e36c967c94096524e0333cb567b431.jar" />
+    </item>
+    <item
+        jar="C:\Users\vrumale\AndroidProject\InstaViewer\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\vrumale\AndroidProject\InstaViewer\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-060e0be7934f92b810dc517e8d29652824d415fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\vrumale\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.5\77bf7cacf9cefe19dc105e5425d2eb1bb5285881\android-async-http-1.4.5.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="C:\Users\vrumale\AndroidProject\InstaViewer\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.5-1f5e23e7dc924b60d895d1225b91fbb0985a06a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\vrumale\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\vrumale\AndroidProject\InstaViewer\app\build\intermediates\pre-dexed\debug\picasso-2.4.0-829be167e6b071bbe97bcc20662ed01707cac0fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\vrumale\Documents\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\vrumale\AndroidProject\InstaViewer\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-cd7ea7691ce9bc2a7ba0a5f51c83d8578d0e316f.jar" />
+    </item>
+    <item
+        jar="C:\Users\vrumale\AndroidProject\InstaViewer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\vrumale\AndroidProject\InstaViewer\app\build\intermediates\pre-dexed\debug\classes-4a95a93e1afc87ed2415cca96e337bc04f8fa7df.jar" />
+    </item>
+
+</items>
